@@ -42,12 +42,12 @@ function Navbar() {
                         </Link>
                     </li>
                     <li className="nav-item">
-                        <Link to ='/bigtrails' className="nav-links" onClick={closeMobileMenu}>
+                        <Link to ='/products' className="nav-links" onClick={closeMobileMenu}>
                             Big Trails
                         </Link>
                     </li>
                     <li className="nav-item">
-                        <Link to ='/products' className="nav-links" onClick={closeMobileMenu}>
+                        <Link to ='/services' className="nav-links" onClick={closeMobileMenu}>
                             Acessórios
                         </Link>
                     </li>
