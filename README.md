@@ -18,22 +18,28 @@ and *run* the react project
 
     npm run start
     
-![](https://github.com/isaacwrk/js-exercises/blob/master/ex/coin.png)
-
 **Main Image**
 ![](https://github.com/isaacwrk/js-exercises/blob/master/ex/mxp.png)
 
 **Responsive Main Image**
+
 ![](https://github.com/isaacwrk/js-exercises/blob/master/ex/mn.png)
 
+
 **Cards Content**
+
 ![](https://github.com/isaacwrk/js-exercises/blob/master/ex/contentmax.png)
 
+
 **Responsive Cards Content**
+
 ![](https://github.com/isaacwrk/js-exercises/blob/master/ex/contentmin.png)
+
 
 **Footer Content**
 ![](https://github.com/isaacwrk/js-exercises/blob/master/ex/footermax.png)
+
+
 
 **Responsive Footer Content**
 ![](https://github.com/isaacwrk/js-exercises/blob/master/ex/footermin.png)
