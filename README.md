@@ -37,11 +37,15 @@ and *run* the react project
 
 
 **Footer Content**
+
 ![](https://github.com/isaacwrk/js-exercises/blob/master/ex/footermax.png)
 
 
 
+
+
 **Responsive Footer Content**
+
 ![](https://github.com/isaacwrk/js-exercises/blob/master/ex/footermin.png)
 
 
